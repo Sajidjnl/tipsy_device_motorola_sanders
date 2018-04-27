@@ -14,4 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo validus_sanders-userdebug
+add_lunch_combo tipsy_sanders-userdebug
+
